@@ -1,0 +1,109 @@
+  /*Iphone 5*/
+  @media only screen
+    and (min-device-width: 320px)
+    and (max-device-width: 480px) {
+
+
+      .carousel {
+        position: absolute;
+        bottom: 153px;
+        right: 23px;
+      }
+
+
+      .burger {
+      position: absolute;
+      top: 85px;
+      left: 39px;
+      }
+      .frame {
+      margin: 0 auto;
+      width: 328px;
+      position: relative;
+      top: -5px;
+      left: 0;
+
+  }
+
+    }
+    @media only screen
+      and (min-device-width: 320px)
+      and (max-device-width: 568px)
+      and (-webkit-min-device-pixel-ratio: 2)
+      and (orientation: landscape) {
+
+        .burger {
+            position: absolute;
+            top: 90px;
+            left: 163px;
+        }
+
+      }
+
+
+  /*Iphone 6s*/
+    @media only screen
+      and (min-device-width: 375px)
+      and (max-device-width: 480px) {
+
+        .burger {
+        position: absolute;
+        top: 85px;
+        left: 67px;
+        }
+      }
+  /*iphone 6 plus*/
+      @media only screen
+    and (min-device-width: 414px)
+    and (max-device-width: 736px)
+    and (-webkit-min-device-pixel-ratio: 3) {
+
+      .burger {
+      position: absolute;
+      top: 85px;
+      left: 86px;
+  }
+    }
+
+
+  /*Ipads*/
+      @media only screen
+      and (min-device-width: 768px)
+      and (max-device-width: 1024px)
+      and (-webkit-min-device-pixel-ratio: 1) {
+        .burger {
+      position: absolute;
+      top: 120px;
+      left: 263px;
+  }
+  .logo {
+  margin-bottom: 0;
+  margin-top: 80px;
+  }
+  .inner {
+      padding: 0px;
+      margin-bottom: 50px;
+  }
+      }
+  /*large screen*/
+
+    @media only screen
+      and (min-width: 1824px) {
+        .carousel {
+            position: absolute;
+            bottom: 220px;
+            right: 823px;
+            top: 272px;
+        }
+    }
+    @media only screen
+      and (min-device-width: 1200px)
+      and (max-device-width: 1600px)
+      and (-webkit-min-device-pixel-ratio: 1) {
+
+        .carousel {
+          position: fixed;
+          top: 183px;
+          right: 583px;
+}
+      }

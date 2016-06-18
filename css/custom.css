@@ -1,0 +1,53 @@
+.frame {
+  margin: 0 auto;
+  width: 328px;
+  position: relative;
+  top: 88px; /*was 30px*/
+  left: 0;
+}
+.logo {
+  margin: 20px;
+}
+.head-text {
+  position: relative;
+  bottom: 557px;
+}
+.food-bg {
+position: absolute;
+top: 173px; /*was 115px*/
+left: 228px;
+}
+/*#food-container {width: 200px;*/
+/*    position: absolute;*/
+ /*   top: 329px; was 263px*/
+/*    left: 272px;*/
+/*    }*/
+
+/*  #instructions {*/
+/*    position: absolute;*/
+/*    top: 201px;*/
+/*    left: 286px;*/
+/*  }*/
+
+/*  .dislike {*/
+/*    font-weight: 600;*/
+/*    color: red;*/
+/*  }*/
+/*  .like {*/
+/*    font-weight: 600;*/
+/*    color: green;*/
+/*  }*/
+/*  .app-title {*/
+/*    font-family: "Open Sans", sans-serif;*/
+/*    font-weight: 100;*/
+/*    color: #faebd7;*/
+/*  }*/
+/*  .food {*/
+/*    width: 220px;*/
+/*  }*/
+/*  .happy {*/
+/*    width:35px;*/
+/*  }*/
+/*  .sad {*/
+/*    width:35px;*/
+/*  }*/
