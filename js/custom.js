@@ -76,7 +76,7 @@ function sendMail() {
           'from_email': 'Nick-Spinosa@yandex.com,
           'to': [
               {
-                'email': 'nickspinosa1022@gmail.com',
+                'email': 'nick-spinosa@yandex.com',
                 'name': 'Nick Spinosa' ,
                 'type': 'to'
               }
